@@ -42,13 +42,13 @@ To create the environment, open your terminal and navigate to the folder with th
 
 ```bash
 # For Windows users
-conda create -f environment-windows.yml
+conda env create -f environment-windows.yml
 
 # On macOS
-conda create -f environment-macos.yml
+conda env create -f environment-macos.yml
 
 # .. Linux
-conda create -f environment-linux.yml
+conda env create -f environment-linux.yml
 ```
 
 This operation might take some time. Verify that the environment is installed with `conda env list`.
