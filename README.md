@@ -76,7 +76,7 @@ jupyter notebook
 # Or the new "Jupyter lab" one
 jupyter lab
 
-# You can then quit the interface with Ctrl+C
+# You can then quit the interface with Ctrl+C (twice on Windows)
 ```
 
 Similarly, you can **deactivate** the environment with
