@@ -88,3 +88,7 @@ deactivate
 # On macOS and Linux
 source deactivate
 ```
+
+## Scavenger hunt
+
+Try to run the `scavenger-hunt.ipynb` notebook with the workshop environment.
