@@ -1,6 +1,6 @@
 # dl-workshop
 
-[![Binder Notebook](https://img.shields.io/badge/binder-Notebook-blue.svg)](https://mybinder.org/v2/gh/pacm/dl-workshop/master) [![Binder Notebook](https://img.shields.io/badge/binder-Lab-blue.svg)](https://mybinder.org/v2/gh/pacm/dl-workshop/master?urlpath=lab)
+[![Binder Notebook](https://img.shields.io/badge/binder-Jupyter%20Notebook-blue.svg)](https://mybinder.org/v2/gh/pacm/dl-workshop/master) [![Binder Notebook](https://img.shields.io/badge/binder-Juypter%20Lab-blue.svg)](https://mybinder.org/v2/gh/pacm/dl-workshop/master?urlpath=lab)
 
 Intro to deep learning workshop.
 
