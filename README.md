@@ -1,5 +1,7 @@
 # dl-workshop
 
+[![Binder Notebook](https://img.shields.io/badge/binder-Notebook-blue.svg)](https://mybinder.org/v2/gh/pacm/dl-workshop/master) [![Binder Notebook](https://img.shields.io/badge/binder-Lab-blue.svg)](https://mybinder.org/v2/gh/pacm/dl-workshop/master?urlpath=lab)
+
 Intro to deep learning workshop.
 
 ## Install before the workshop
@@ -91,4 +93,4 @@ source deactivate
 
 ## Scavenger hunt
 
-Try to run the `scavenger-hunt.ipynb` notebook with the workshop environment.
+Try to run the `scavenger-hunt.ipynb` notebook (and the other ones!) with the workshop environment.
